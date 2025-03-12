@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/karthicks-02/resume.git/static/css/main.5e129b09.css",
+    "main.js": "/karthicks-02/resume.git/static/js/main.4e6f75a1.js",
+    "static/js/453.8069f9f3.chunk.js": "/karthicks-02/resume.git/static/js/453.8069f9f3.chunk.js",
+    "index.html": "/karthicks-02/resume.git/index.html",
+    "main.5e129b09.css.map": "/karthicks-02/resume.git/static/css/main.5e129b09.css.map",
+    "main.4e6f75a1.js.map": "/karthicks-02/resume.git/static/js/main.4e6f75a1.js.map",
+    "453.8069f9f3.chunk.js.map": "/karthicks-02/resume.git/static/js/453.8069f9f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e129b09.css",
+    "static/js/main.4e6f75a1.js"
+  ]
+}
