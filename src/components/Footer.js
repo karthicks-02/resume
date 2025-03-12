@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="footer">
       <p> Karthick Sundaram</p>
-      <p>Contact: karthicksundaram002.com</p>
+      <p>Email: karthicksundaram002.com</p>
       <p>Mobile: 9789923439</p>
     </footer>
   );
